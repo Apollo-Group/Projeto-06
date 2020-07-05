@@ -34,7 +34,7 @@ Qualquer linguagem ou framework para app mobile.
 ## :pencil2: Telas e Layout
 
 <p align="center">
-  <img src="./assets/app-apollo-food.png" width=600>
+  <img src="./assets/app-apollo-food.png" width=800>
 </p>
 
 - Splash screen;

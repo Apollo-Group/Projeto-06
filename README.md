@@ -1,6 +1,6 @@
 <img alt="Header" src="/assets/header.jpeg" />
 <h3 align="center">
-  Desafio 6: Criar um app mobile que irá consumir a API construída no Projeto-03. Essa versão APP terá apenas a visão do CLIENTE, na qual realizará os pedidos.
+  Desafio 6: Criar um app mobile que irá consumir a API construída no Projeto-03.
 </h3>
 
 <blockquote align="center">
@@ -34,7 +34,7 @@ Qualquer linguagem ou framework para app mobile.
 ## :pencil2: Telas e Layout
 
 <p align="center">
-  <img src="./assets/restaurant.jpg" width=600>
+  <img src="./assets/app-apollo-food.png" width=600>
 </p>
 
 - Splash screen;
